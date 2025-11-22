@@ -1,0 +1,15 @@
+
+.my-list li {
+    background-color: darkred;
+    color: white;
+    padding: 5px;
+    margin: 2px 0;
+}
+
+
+.my-item {
+    background-color: #C07C9D;
+    color: white;
+    padding: 5px;
+    margin: 2px 0;
+}
